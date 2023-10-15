@@ -77,10 +77,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57nety&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>
-
-## Connect with me
-<div align="center">
-<a href="mailto:57nety@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div> 
