@@ -66,18 +66,31 @@
 <br/>  
 
 
-## Connect with me
-<div align="center">
-<a href="https://github.com/57nety" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+## 💻 Codewars
+![codewars](https://www.codewars.com/users/777alexey/badges/large)
 
 
-<br/>  
 
 
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=57nety&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>
+
+## Connect with me
+<div align="center">
+<a href="https://github.com/57nety" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+<div align="center">
+<a href="https://barnaul.hh.ru/resume/f67c29e3ff0c7d8da60039ed1f4a7638346b55" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div> 
+
+
+
+<br/> 
