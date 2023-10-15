@@ -80,17 +80,7 @@
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/57nety" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="mailto:57nety@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div> 
-
-<div align="center">
-<a href="https://barnaul.hh.ru/resume/f67c29e3ff0c7d8da60039ed1f4a7638346b55" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div> 
-
-
-
-<br/> 
