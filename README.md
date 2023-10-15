@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://sky.pro/media/wp-content/uploads/2023/01/7.1.-kak-osvoit-programmirovanie-s-nulya.png" align="center" style="width: 50%" />
+<img src="https://sky.pro/media/wp-content/uploads/2023/01/7.1.-kak-osvoit-programmirovanie-s-nulya.png" align="center" style="width: 40%" />
 </div>  
 
 
